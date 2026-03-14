@@ -1,5 +1,10 @@
-### 💫 About Me:
-#### Hi there 👋<br><br>💻 Computer Engineer  <br>☁️ Technical Support Engineer at Microsoft  <br>🚀 Former Solutions Architect Intern at AWS  <br><br>🌱 I’m currently learning  <br>Full-stack development and advanced cloud architectures<br><br>👯 I’m looking to collaborate on  <br>Cloud and software engineering projects<br><br>💬 Ask me about  <br>Cloud architecture, AWS, Azure, and distributed systems
+### Hi there 💜
+
+Computer Engineer 💻
+
+Technical Support Engineer at Microsoft ☁️
+
+Former Solutions Architect Intern at AWS 📦
 
 
 ### 🌐 Socials:
